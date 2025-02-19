@@ -1,4 +1,4 @@
 # SnackHub
 One place for all the info
 
-Based on [CheetEck's Google Site](https://sites.google.com/view/snackbag-stuff)
+Based on [Cheet**E**ck's Google Site](https://sites.google.com/view/snackbag-stuff)
