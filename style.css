@@ -3,7 +3,7 @@ body {
     color: white;
 }
 
-#header-div {
+#header {
     position: relative;
     text-align: center;
 }
@@ -25,4 +25,5 @@ body {
 
 #main {
     background-color: rgba(10, 10, 10, 0.418);
+    height: 300px; padding: 10px;
 }
